@@ -1,1 +1,1 @@
-# Kesha-s-Icecream-Shop
+# Kesha-Icecream-Shop
