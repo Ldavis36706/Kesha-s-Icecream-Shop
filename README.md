@@ -10,4 +10,4 @@ For this project, I imagined that I was the proud owner of an ice cream shop.  A
 
 To complete the order I just need to know if you prefer a cup or a cone, how many scoops of icecream you'd like, and the flavor. I went a step further and I can also randomly choose a flavor for you as well if you'd like. Enjoy!!!
 
-[IMG_5279](https://github.com/Ldavis36706/Kesha-s-Icecream-Shop/assets/159222943/799ed566-8811-4748-81a4-261b4dc0fb51)
+
