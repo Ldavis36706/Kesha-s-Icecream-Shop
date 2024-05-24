@@ -7,6 +7,8 @@
 - Boolean Expressions
 - While, if,  & else statments
 
+<img src="https://i.imgur.com/8Lb5z0Q.png" alt="Snippet of Code"/>
+
 <h2>Summary of Application</h2>
 
 For this project, I imagined that I was the proud owner of an ice cream shop.  As an entrepreneur, I know that increased efficiency can be the thing that sets you apart from competition. I used my knowledge about iterables, data types, conditionals, and user input, to build the logic for an application that can automatically take customer orders.
